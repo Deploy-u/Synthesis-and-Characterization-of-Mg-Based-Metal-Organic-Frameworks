@@ -20,10 +20,3 @@ The MOF was synthesized via a controlled precipitation method:
 
 ## 📊 Characterization
 - **UV-Visible Spectroscopy:** Preliminary optical characterization was conducted to evaluate the structural and chemical properties of the synthesized framework.
-
-## 🙏 Acknowledgements
-This research was conducted under the **VigyanShaala She-for-STEM programme**.
-- **Mentor:** Tulsi Dabodiya
-- **Project Partner:** Irfana Mariyam M
-- **Institution:** Providence Women's College, Kozhikode
-- **Support:** Special thanks to VigyanShaala International and the college faculty for their continuous guidance and support throughout this journey.
